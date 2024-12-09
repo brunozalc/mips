@@ -1,0 +1,55 @@
+Quartus Prime Archive log --	C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.qarlog
+
+Archive:	C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.qar
+Date:		Sun Dec  1 22:01:12 2024
+Quartus Prime		23.1std.1 Build 993 05/14/2024 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/._mips.sdc
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/Waveform.vwf
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/alu/adder.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/alu/alu.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/alu/alu_bit.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/alu/alu_control_unit.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/alu/alu_msb.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/const_incrementer.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/data_flow_control_unit.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/decoders/funct_decoder.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/decoders/opcode_decoder.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/edgeDetector.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/edge_detector.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/explicit_reg_file.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/flip_flop.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/generic_register.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/hex_converter.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/hex_model.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/incrementer.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/inverted_reg_file.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/mux2x1.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/mux2x1_bit.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/mux4x1.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/ram.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/regular_reg_file.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/rom.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/signal_extender.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/stages/decode.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/stages/execute.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/stages/fetch.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/stages/memory.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/components/stages/write_back.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/db/mips.cmp.rdb
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.qpf
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.qsf
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.sdc
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/mips.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/pipeline.vhd
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/teste_grupo_a.mif
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/teste_grupo_b.mif
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/teste_lui_ori.mif
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/teste_pipeline_a.mif
+C:/Users/bruno/Desktop/main/descomp/aulas/mips/teste_pipeline_b.mif
+c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 44 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
